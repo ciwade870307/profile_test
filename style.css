@@ -143,6 +143,10 @@ body {
   transition: background .5s;  
 }
 
+.main{
+	height:70cm;
+}
+
 .main .container {
   margin:80px auto;
 }
