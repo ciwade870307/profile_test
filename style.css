@@ -199,6 +199,6 @@ body {
 
 @media (max-width: 1000px) {
     html, body {
-        background:red;  
+        background:green;  
    }
 }
