@@ -143,10 +143,6 @@ body {
   transition: background .5s;  
 }
 
-.main{
-	height:100cm;
-}
-
 .main .container {
   margin:80px auto;
 }
@@ -200,5 +196,3 @@ body {
     width: 100%;
   }
 }
-
-
